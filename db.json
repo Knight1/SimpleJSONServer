@@ -1,12 +1,7 @@
 {
-  "config": [
-    {
+  "config": {
       "latestLauncherVersion": "1.0.1",
       "LauncherSignature": "12345",
       "LauncherDownloadUrl": "https://link/to/launcher"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
   }
 }
