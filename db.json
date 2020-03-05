@@ -1,27 +1,34 @@
 {
-	"loginServer": "https://login.lagnumgame.de",
-	"downloadServer": "https://download.lagnumgame.de",
-	"loginMessage": "Degraded State! See Status board href=https://status.lagnumgame.de",
-	"systemStatus": "online, degraded, update, maintenance, offline",
-	"game": {
-		"version": "1.0.2",
-		"releasedate": "2020-03-05T01:35:35.851Z",
-		"environment": "production",
-		"gameFiles": {
-			"LagnumOnlineClient": {
-				"date": "2020-03-05T01:35:35.851Z",
-				"sha256": "775dedba964bdb57d7e903a709043d7c65783f1c1898aac19b9e16c071080971",
-				"size": 15134234
-			},
-			"UnityCrashHandler64": {
-				"date": "2020-03-05T01:35:35.851Z",
-				"sha256": "a688f8e09faf10ede4e175698adac22b24ad51eb3d813dc97542388b9cc837c7",
-				"size": 423444
-			},
-			"LagnumOnlineGame_Data\\Managed\\Mono.CecilX1.Mdb.dll": {
-				"date": "2020-03-05T01:35:35.851Z",
-				"sha256": "712854f8ea77fe44b1259572ac88f83731acff59350de8aa1b554e743a2a0dbe",
-				"size": 1565323
+	"config": {
+		"latestLauncherVersion": "1.0.1",
+		"latestLauncherSignature": "12345",
+		"latestLauncherDownloadUrl": "https://cdn.treudler.net/lagnumonlinegame/launcher/"
+	},
+	"patcher": {
+		"loginServer": "https://login.lagnumgame.de",
+		"downloadServer": "https://download.lagnumgame.de",
+		"loginMessage": "Degraded State! See Status board href=https://status.lagnumgame.de",
+		"systemStatus": "online, degraded, update, maintenance, offline",
+		"game": {
+			"version": "1.0.2",
+			"releasedate": "2020-03-05T01:35:35.851Z",
+			"environment": "production",
+			"gameFiles": {
+				"LagnumOnlineClient": {
+					"date": "2020-03-05T01:35:35.851Z",
+					"sha256": "775dedba964bdb57d7e903a709043d7c65783f1c1898aac19b9e16c071080971",
+					"size": 15134234
+				},
+				"UnityCrashHandler64": {
+					"date": "2020-03-05T01:35:35.851Z",
+					"sha256": "a688f8e09faf10ede4e175698adac22b24ad51eb3d813dc97542388b9cc837c7",
+					"size": 423444
+				},
+				"LagnumOnlineGame_Data\\Managed\\Mono.CecilX1.Mdb.dll": {
+					"date": "2020-03-05T01:35:35.851Z",
+					"sha256": "712854f8ea77fe44b1259572ac88f83731acff59350de8aa1b554e743a2a0dbe",
+					"size": 1565323
+				}
 			}
 		}
 	}
