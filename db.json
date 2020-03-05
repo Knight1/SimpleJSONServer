@@ -14,12 +14,12 @@
 			"releasedate": "2020-03-05T01:35:35.851Z",
 			"environment": "production",
 			"gameFiles": {
-				"LagnumOnlineClient": {
+				"LagnumOnlineClient.exe": {
 					"date": "2020-03-05T01:35:35.851Z",
 					"sha256": "775dedba964bdb57d7e903a709043d7c65783f1c1898aac19b9e16c071080971",
 					"size": 15134234
 				},
-				"UnityCrashHandler64": {
+				"UnityCrashHandler64.exe": {
 					"date": "2020-03-05T01:35:35.851Z",
 					"sha256": "a688f8e09faf10ede4e175698adac22b24ad51eb3d813dc97542388b9cc837c7",
 					"size": 423444
